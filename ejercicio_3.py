@@ -10,8 +10,6 @@
 # Ejemplos variables de texto
 
 # Ingrese su primer nombre y luego su primer apellido
-import string
-
 
 nombre = str(input('Ingrese por consola su primer nombre:'))
 
